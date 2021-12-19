@@ -1,0 +1,3 @@
+U:\PythonCPPSample\Release\PythonCPPSample.exe
+\\apporto.com\dfs\SNHU\USERS\allen.white_snhu\Documents\PythonCPPSample - Copy\Release\PythonCPPSample.exe
+\\apporto.com\dfs\SNHU\USERS\allen.white_snhu\Documents\PyCPP Project Three\Release\PythonCPPSample.exe
