@@ -1,4 +1,4 @@
-# SNHU
+# SNHU CS210
 CS210: Module Eight
 
 Q: Summarize the project and what problem it was solving.
